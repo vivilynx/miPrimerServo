@@ -6,4 +6,4 @@ mi primer Servo controlado con arduino
 Este proyecto consistirá en conectar un LDR que controle el movimiento de un Servomotor
 
 ToDo: subir el codigo
-ToDi: subir esquematico
+ToDo: subir esquematico
